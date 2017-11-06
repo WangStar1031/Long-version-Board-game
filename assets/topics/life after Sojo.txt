@@ -1,0 +1,17 @@
+Do you want to get a credit card?
+Do you want to lose weight?
+Do you want to join a gym?
+Do you want to learn an instrument?
+Do you want to save money?
+Do you want to get a full-time job?
+Do you want to get a part-time job?
+Do you want to make more friends?
+Do you want to study harder?
+Do you want to start a new hobby?
+Do you want to get married?
+Do you want to travel?
+Do you want to get a license?
+Do you want to have children?
+Do you want to move to a different city?
+Do you want to buy a house?
+Do you want to buy a car?
